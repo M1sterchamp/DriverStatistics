@@ -101,9 +101,9 @@
       "name": "Joran",
       "ets2": {
         "jobs_count": 12,
-        "total_distance_km": 4024.18,
-        "total_income": 413496,
-        "total_duration_seconds": 9177
+        "total_distance_km": 4289.05,
+        "total_income": 358197,
+        "total_duration_seconds": 9788
       },
       "ats": {
         "jobs_count": 0,
@@ -196,9 +196,9 @@
       "id": 245124,
       "name": "Leoba",
       "ets2": {
-        "jobs_count": 36,
+        "jobs_count": 37,
         "total_distance_km": 20043.06,
-        "total_income": 658247,
+        "total_income": 697320,
         "total_duration_seconds": 70313
       },
       "ats": {
@@ -610,6 +610,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-23T21:28:51.645466+00:00"
+    "generated_at": "2025-12-23T21:39:17.013171+00:00"
   }
 }
