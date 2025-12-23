@@ -117,9 +117,9 @@
       "name": "Nico",
       "ets2": {
         "jobs_count": 99,
-        "total_distance_km": 75256.42,
-        "total_income": 28267212,
-        "total_duration_seconds": 215423
+        "total_distance_km": 76123.42,
+        "total_income": 28266462,
+        "total_duration_seconds": 218679
       },
       "ats": {
         "jobs_count": 0,
@@ -309,9 +309,9 @@
       "name": "JUBATiC",
       "ets2": {
         "jobs_count": 36,
-        "total_distance_km": 7289.54,
+        "total_distance_km": 8249.54,
         "total_income": 258279,
-        "total_duration_seconds": 29499
+        "total_duration_seconds": 32727
       },
       "ats": {
         "jobs_count": 0,
@@ -610,6 +610,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-23T19:55:06.299649+00:00"
+    "generated_at": "2025-12-23T20:05:27.595351+00:00"
   }
 }
