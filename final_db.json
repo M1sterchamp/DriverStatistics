@@ -148,10 +148,10 @@
       "id": 8172,
       "name": ">Colinda<",
       "ets2": {
-        "jobs_count": 93,
-        "total_distance_km": 59883.71,
-        "total_income": 2111760,
-        "total_duration_seconds": 146359
+        "jobs_count": 94,
+        "total_distance_km": 60070.71,
+        "total_income": 2184630,
+        "total_duration_seconds": 146987
       },
       "ats": {
         "jobs_count": 4,
@@ -196,9 +196,9 @@
       "id": 245124,
       "name": "Leoba",
       "ets2": {
-        "jobs_count": 35,
+        "jobs_count": 36,
         "total_distance_km": 19802.06,
-        "total_income": 650464,
+        "total_income": 658247,
         "total_duration_seconds": 69311
       },
       "ats": {
@@ -610,6 +610,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-23T17:08:43.067263+00:00"
+    "generated_at": "2025-12-23T17:19:05.118844+00:00"
   }
 }
