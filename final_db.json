@@ -292,9 +292,9 @@
       "id": 102243,
       "name": "Apache6467",
       "ets2": {
-        "jobs_count": 40,
+        "jobs_count": 41,
         "total_distance_km": 31958.16,
-        "total_income": 2029781,
+        "total_income": 2053023,
         "total_duration_seconds": 109820
       },
       "ats": {
@@ -610,6 +610,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-23T18:00:49.209043+00:00"
+    "generated_at": "2025-12-23T18:11:22.136747+00:00"
   }
 }
