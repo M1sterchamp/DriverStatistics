@@ -69,9 +69,9 @@
       "name": "Misterchamp",
       "ets2": {
         "jobs_count": 53,
-        "total_distance_km": 16381.25,
-        "total_income": 782752,
-        "total_duration_seconds": 51951
+        "total_distance_km": 16831.25,
+        "total_income": 770395,
+        "total_duration_seconds": 53873
       },
       "ats": {
         "jobs_count": 2,
@@ -165,9 +165,9 @@
       "name": "Ashleyyy",
       "ets2": {
         "jobs_count": 96,
-        "total_distance_km": 35028.49,
+        "total_distance_km": 35479.49,
         "total_income": 2651948,
-        "total_duration_seconds": 118485
+        "total_duration_seconds": 120526
       },
       "ats": {
         "jobs_count": 0,
@@ -610,6 +610,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-23T17:19:05.118844+00:00"
+    "generated_at": "2025-12-23T17:29:25.862849+00:00"
   }
 }
