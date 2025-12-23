@@ -85,9 +85,9 @@
       "name": "toz",
       "ets2": {
         "jobs_count": 47,
-        "total_distance_km": 8750.34,
+        "total_distance_km": 9151.34,
         "total_income": 577363,
-        "total_duration_seconds": 33641
+        "total_duration_seconds": 35214
       },
       "ats": {
         "jobs_count": 0,
@@ -607,9 +607,25 @@
         "total_income": 0,
         "total_duration_seconds": 0
       }
+    },
+    "32025": {
+      "id": 32025,
+      "name": "levbrous",
+      "ets2": {
+        "jobs_count": 1,
+        "total_distance_km": 0.0,
+        "total_income": 14364,
+        "total_duration_seconds": 0
+      },
+      "ats": {
+        "jobs_count": 0,
+        "total_distance_km": 0.0,
+        "total_income": 0,
+        "total_duration_seconds": 0
+      }
     }
   },
   "meta": {
-    "generated_at": "2025-12-23T22:00:07.795838+00:00"
+    "generated_at": "2025-12-23T22:10:29.008650+00:00"
   }
 }
