@@ -10,9 +10,9 @@
         "total_duration_seconds": 208527
       },
       "ats": {
-        "jobs_count": 10,
+        "jobs_count": 11,
         "total_distance_km": 5500.6,
-        "total_income": 547861,
+        "total_income": 606510,
         "total_duration_seconds": 15188
       }
     },
@@ -84,9 +84,9 @@
       "id": 122929,
       "name": "toz",
       "ets2": {
-        "jobs_count": 49,
+        "jobs_count": 50,
         "total_distance_km": 9951.34,
-        "total_income": 601073,
+        "total_income": 613737,
         "total_duration_seconds": 37981
       },
       "ats": {
@@ -626,6 +626,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-24T12:29:00.205913+00:00"
+    "generated_at": "2025-12-24T12:39:21.884663+00:00"
   }
 }
