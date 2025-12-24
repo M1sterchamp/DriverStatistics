@@ -4,9 +4,9 @@
       "id": 107038,
       "name": "why do i exist",
       "ets2": {
-        "jobs_count": 107,
+        "jobs_count": 108,
         "total_distance_km": 63662.94,
-        "total_income": 4266315,
+        "total_income": 4342612,
         "total_duration_seconds": 208527
       },
       "ats": {
@@ -85,9 +85,9 @@
       "name": "toz",
       "ets2": {
         "jobs_count": 49,
-        "total_distance_km": 9548.34,
+        "total_distance_km": 9951.34,
         "total_income": 601073,
-        "total_duration_seconds": 36669
+        "total_duration_seconds": 37981
       },
       "ats": {
         "jobs_count": 0,
@@ -626,6 +626,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-24T12:08:19.623068+00:00"
+    "generated_at": "2025-12-24T12:18:40.682044+00:00"
   }
 }
