@@ -53,9 +53,9 @@
       "name": "OFFSET",
       "ets2": {
         "jobs_count": 35,
-        "total_distance_km": 16600.83,
+        "total_distance_km": 17145.83,
         "total_income": 151374620,
-        "total_duration_seconds": 34170
+        "total_duration_seconds": 36233
       },
       "ats": {
         "jobs_count": 0,
@@ -626,6 +626,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-24T20:15:20.824064+00:00"
+    "generated_at": "2025-12-24T20:25:41.083572+00:00"
   }
 }
