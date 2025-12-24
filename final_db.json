@@ -165,9 +165,9 @@
       "name": "Ashleyyy",
       "ets2": {
         "jobs_count": 97,
-        "total_distance_km": 35479.49,
-        "total_income": 2664944,
-        "total_duration_seconds": 120526
+        "total_distance_km": 35479.84,
+        "total_income": 2639948,
+        "total_duration_seconds": 120554
       },
       "ats": {
         "jobs_count": 0,
@@ -626,6 +626,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-24T18:42:08.651385+00:00"
+    "generated_at": "2025-12-24T18:52:31.686285+00:00"
   }
 }
