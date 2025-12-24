@@ -43,9 +43,9 @@
       },
       "ats": {
         "jobs_count": 5,
-        "total_distance_km": 859.0,
+        "total_distance_km": 1054.0,
         "total_income": 38731,
-        "total_duration_seconds": 3104
+        "total_duration_seconds": 3976
       }
     },
     "238917": {
@@ -84,9 +84,9 @@
       "id": 122929,
       "name": "toz",
       "ets2": {
-        "jobs_count": 51,
+        "jobs_count": 52,
         "total_distance_km": 10396.01,
-        "total_income": 601737,
+        "total_income": 616249,
         "total_duration_seconds": 39559
       },
       "ats": {
@@ -196,9 +196,9 @@
       "id": 245124,
       "name": "Leoba",
       "ets2": {
-        "jobs_count": 37,
+        "jobs_count": 38,
         "total_distance_km": 21094.06,
-        "total_income": 697320,
+        "total_income": 701336,
         "total_duration_seconds": 74157
       },
       "ats": {
@@ -626,6 +626,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-24T16:17:10.400956+00:00"
+    "generated_at": "2025-12-24T16:27:31.512171+00:00"
   }
 }
