@@ -613,9 +613,9 @@
       "name": "levbrous",
       "ets2": {
         "jobs_count": 2,
-        "total_distance_km": 316.0,
+        "total_distance_km": 1208.0,
         "total_income": 58047,
-        "total_duration_seconds": 912
+        "total_duration_seconds": 2928
       },
       "ats": {
         "jobs_count": 0,
@@ -626,6 +626,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-23T23:54:11.318788+00:00"
+    "generated_at": "2025-12-24T00:04:31.416113+00:00"
   }
 }
