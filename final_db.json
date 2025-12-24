@@ -85,9 +85,9 @@
       "name": "toz",
       "ets2": {
         "jobs_count": 48,
-        "total_distance_km": 9151.34,
+        "total_distance_km": 9548.34,
         "total_income": 589643,
-        "total_duration_seconds": 35214
+        "total_duration_seconds": 36669
       },
       "ats": {
         "jobs_count": 0,
@@ -324,9 +324,9 @@
       "id": 163987,
       "name": "smokez",
       "ets2": {
-        "jobs_count": 83,
+        "jobs_count": 84,
         "total_distance_km": 26767.88,
-        "total_income": 1112201,
+        "total_income": 1118201,
         "total_duration_seconds": 91600
       },
       "ats": {
@@ -626,6 +626,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-24T11:26:57.849423+00:00"
+    "generated_at": "2025-12-24T11:37:19.085684+00:00"
   }
 }
