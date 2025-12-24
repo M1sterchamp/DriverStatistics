@@ -325,9 +325,9 @@
       "name": "smokez",
       "ets2": {
         "jobs_count": 86,
-        "total_distance_km": 26981.88,
+        "total_distance_km": 27099.88,
         "total_income": 1130941,
-        "total_duration_seconds": 92582
+        "total_duration_seconds": 93343
       },
       "ats": {
         "jobs_count": 2,
@@ -626,6 +626,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-24T11:57:59.266593+00:00"
+    "generated_at": "2025-12-24T12:08:19.623068+00:00"
   }
 }
