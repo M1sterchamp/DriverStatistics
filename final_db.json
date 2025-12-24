@@ -52,9 +52,9 @@
       "id": 238917,
       "name": "OFFSET",
       "ets2": {
-        "jobs_count": 34,
+        "jobs_count": 35,
         "total_distance_km": 16600.83,
-        "total_income": 151352372,
+        "total_income": 151374620,
         "total_duration_seconds": 34170
       },
       "ats": {
@@ -116,10 +116,10 @@
       "id": 8180,
       "name": "Nico",
       "ets2": {
-        "jobs_count": 101,
-        "total_distance_km": 83159.42,
-        "total_income": 28282569,
-        "total_duration_seconds": 236385
+        "jobs_count": 102,
+        "total_distance_km": 83839.42,
+        "total_income": 28309765,
+        "total_duration_seconds": 238611
       },
       "ats": {
         "jobs_count": 0,
@@ -164,10 +164,10 @@
       "id": 119522,
       "name": "Ashleyyy",
       "ets2": {
-        "jobs_count": 97,
-        "total_distance_km": 35479.84,
-        "total_income": 2639948,
-        "total_duration_seconds": 120554
+        "jobs_count": 98,
+        "total_distance_km": 35480.03,
+        "total_income": 2627948,
+        "total_duration_seconds": 120571
       },
       "ats": {
         "jobs_count": 0,
@@ -626,6 +626,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-24T19:13:12.453826+00:00"
+    "generated_at": "2025-12-24T19:23:32.036930+00:00"
   }
 }
