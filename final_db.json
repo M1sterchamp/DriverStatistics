@@ -404,9 +404,9 @@
       "id": 108959,
       "name": "NFSCarbono7195",
       "ets2": {
-        "jobs_count": 53,
+        "jobs_count": 54,
         "total_distance_km": 46498.42,
-        "total_income": 5794424,
+        "total_income": 5800305,
         "total_duration_seconds": 145634
       },
       "ats": {
@@ -626,6 +626,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-25T05:24:31.922237+00:00"
+    "generated_at": "2025-12-25T05:34:52.065938+00:00"
   }
 }
