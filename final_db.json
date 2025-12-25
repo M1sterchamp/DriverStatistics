@@ -101,9 +101,9 @@
       "name": "Joran",
       "ets2": {
         "jobs_count": 16,
-        "total_distance_km": 9288.05,
+        "total_distance_km": 9455.05,
         "total_income": 727107,
-        "total_duration_seconds": 22029
+        "total_duration_seconds": 22687
       },
       "ats": {
         "jobs_count": 0,
@@ -642,6 +642,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-25T09:53:21.805398+00:00"
+    "generated_at": "2025-12-25T10:03:42.522378+00:00"
   }
 }
