@@ -639,9 +639,25 @@
         "total_income": 0,
         "total_duration_seconds": 0
       }
+    },
+    "12804": {
+      "id": 12804,
+      "name": "kwf1998",
+      "ets2": {
+        "jobs_count": 1,
+        "total_distance_km": 0.0,
+        "total_income": 5719,
+        "total_duration_seconds": 0
+      },
+      "ats": {
+        "jobs_count": 0,
+        "total_distance_km": 0.0,
+        "total_income": 0,
+        "total_duration_seconds": 0
+      }
     }
   },
   "meta": {
-    "generated_at": "2025-12-25T20:26:02.734799+00:00"
+    "generated_at": "2025-12-25T20:36:25.400652+00:00"
   }
 }
