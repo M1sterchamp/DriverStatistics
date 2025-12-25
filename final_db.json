@@ -100,9 +100,9 @@
       "id": 244659,
       "name": "Joran",
       "ets2": {
-        "jobs_count": 16,
+        "jobs_count": 17,
         "total_distance_km": 9455.05,
-        "total_income": 727107,
+        "total_income": 753172,
         "total_duration_seconds": 22687
       },
       "ats": {
@@ -629,9 +629,9 @@
       "name": "DestinyX",
       "ets2": {
         "jobs_count": 1,
-        "total_distance_km": 0.0,
-        "total_income": 78122,
-        "total_duration_seconds": 0
+        "total_distance_km": 1675.0,
+        "total_income": 0,
+        "total_duration_seconds": 4998
       },
       "ats": {
         "jobs_count": 0,
@@ -642,6 +642,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-25T10:24:24.722251+00:00"
+    "generated_at": "2025-12-25T10:34:47.312000+00:00"
   }
 }
