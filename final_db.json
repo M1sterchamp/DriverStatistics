@@ -628,9 +628,9 @@
       "id": 245564,
       "name": "DestinyX",
       "ets2": {
-        "jobs_count": 1,
+        "jobs_count": 2,
         "total_distance_km": 1675.0,
-        "total_income": 0,
+        "total_income": 24105,
         "total_duration_seconds": 4998
       },
       "ats": {
@@ -642,6 +642,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-25T10:45:08.770919+00:00"
+    "generated_at": "2025-12-25T10:55:29.114880+00:00"
   }
 }
