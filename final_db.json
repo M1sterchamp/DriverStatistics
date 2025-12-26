@@ -5,9 +5,9 @@
       "name": "why do i exist",
       "ets2": {
         "jobs_count": 110,
-        "total_distance_km": 64446.47,
-        "total_income": 4452071,
-        "total_duration_seconds": 212148
+        "total_distance_km": 67639.47,
+        "total_income": 4440733,
+        "total_duration_seconds": 218878
       },
       "ats": {
         "jobs_count": 20,
@@ -148,10 +148,10 @@
       "id": 8172,
       "name": ">Colinda<",
       "ets2": {
-        "jobs_count": 96,
-        "total_distance_km": 62151.71,
-        "total_income": 2282677,
-        "total_duration_seconds": 151850
+        "jobs_count": 97,
+        "total_distance_km": 62224.71,
+        "total_income": 2301964,
+        "total_duration_seconds": 152239
       },
       "ats": {
         "jobs_count": 4,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-26T15:11:51.298936+00:00"
+    "generated_at": "2025-12-26T15:22:24.898075+00:00"
   }
 }
