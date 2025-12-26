@@ -644,10 +644,10 @@
       "id": 12804,
       "name": "kwf1998",
       "ets2": {
-        "jobs_count": 6,
-        "total_distance_km": 1192.0,
-        "total_income": 122562,
-        "total_duration_seconds": 3786
+        "jobs_count": 7,
+        "total_distance_km": 2615.0,
+        "total_income": 153734,
+        "total_duration_seconds": 4785
       },
       "ats": {
         "jobs_count": 0,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-26T19:32:11.967834+00:00"
+    "generated_at": "2025-12-26T19:42:35.418276+00:00"
   }
 }
