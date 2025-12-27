@@ -356,9 +356,9 @@
       "id": 182620,
       "name": "ThunderBurrow",
       "ets2": {
-        "jobs_count": 23,
+        "jobs_count": 24,
         "total_distance_km": 13686.0,
-        "total_income": 1158214,
+        "total_income": 1170176,
         "total_duration_seconds": 45997
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-27T14:24:50.383661+00:00"
+    "generated_at": "2025-12-27T14:35:13.727260+00:00"
   }
 }
