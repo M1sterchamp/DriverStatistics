@@ -308,9 +308,9 @@
       "id": 119941,
       "name": "JUBATiC",
       "ets2": {
-        "jobs_count": 36,
+        "jobs_count": 37,
         "total_distance_km": 8249.54,
-        "total_income": 258279,
+        "total_income": 260614,
         "total_duration_seconds": 32727
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-27T12:30:35.469973+00:00"
+    "generated_at": "2025-12-27T12:40:57.415085+00:00"
   }
 }
