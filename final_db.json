@@ -308,9 +308,9 @@
       "id": 119941,
       "name": "JUBATiC",
       "ets2": {
-        "jobs_count": 41,
+        "jobs_count": 42,
         "total_distance_km": 9619.54,
-        "total_income": 276389,
+        "total_income": 277336,
         "total_duration_seconds": 38746
       },
       "ats": {
@@ -357,9 +357,9 @@
       "name": "ThunderBurrow",
       "ets2": {
         "jobs_count": 24,
-        "total_distance_km": 13686.0,
+        "total_distance_km": 13939.0,
         "total_income": 1170176,
-        "total_duration_seconds": 45997
+        "total_duration_seconds": 46866
       },
       "ats": {
         "jobs_count": 1,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-27T14:45:38.826197+00:00"
+    "generated_at": "2025-12-27T14:56:02.810822+00:00"
   }
 }
