@@ -196,9 +196,9 @@
       "id": 245124,
       "name": "Leoba",
       "ets2": {
-        "jobs_count": 40,
+        "jobs_count": 41,
         "total_distance_km": 21413.06,
-        "total_income": 719329,
+        "total_income": 765405,
         "total_duration_seconds": 75572
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-27T16:19:39.829383+00:00"
+    "generated_at": "2025-12-27T16:30:03.229052+00:00"
   }
 }
