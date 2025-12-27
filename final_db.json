@@ -100,9 +100,9 @@
       "id": 244659,
       "name": "Joran",
       "ets2": {
-        "jobs_count": 22,
+        "jobs_count": 23,
         "total_distance_km": 13038.59,
-        "total_income": 1028010,
+        "total_income": 1145641,
         "total_duration_seconds": 31390
       },
       "ats": {
@@ -116,9 +116,9 @@
       "id": 8180,
       "name": "Nico",
       "ets2": {
-        "jobs_count": 111,
+        "jobs_count": 112,
         "total_distance_km": 92576.81,
-        "total_income": 28816663,
+        "total_income": 28924501,
         "total_duration_seconds": 261685
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-27T20:09:13.341225+00:00"
+    "generated_at": "2025-12-27T20:19:36.626126+00:00"
   }
 }
