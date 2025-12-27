@@ -84,9 +84,9 @@
       "id": 122929,
       "name": "toz",
       "ets2": {
-        "jobs_count": 56,
+        "jobs_count": 57,
         "total_distance_km": 12567.01,
-        "total_income": 685387,
+        "total_income": 696933,
         "total_duration_seconds": 47636
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-27T12:20:04.386608+00:00"
+    "generated_at": "2025-12-27T12:30:35.469973+00:00"
   }
 }
