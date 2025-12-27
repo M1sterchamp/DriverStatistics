@@ -197,9 +197,9 @@
       "name": "Leoba",
       "ets2": {
         "jobs_count": 41,
-        "total_distance_km": 21413.06,
+        "total_distance_km": 22897.06,
         "total_income": 765405,
-        "total_duration_seconds": 75572
+        "total_duration_seconds": 80427
       },
       "ats": {
         "jobs_count": 3,
@@ -228,9 +228,9 @@
       "id": 240186,
       "name": "Kaizen",
       "ets2": {
-        "jobs_count": 106,
+        "jobs_count": 107,
         "total_distance_km": 37596.67,
-        "total_income": 1713211,
+        "total_income": 1716383,
         "total_duration_seconds": 121995
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-27T17:53:27.747954+00:00"
+    "generated_at": "2025-12-27T18:03:55.227747+00:00"
   }
 }
