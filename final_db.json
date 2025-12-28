@@ -229,9 +229,9 @@
       "name": "Kaizen",
       "ets2": {
         "jobs_count": 110,
-        "total_distance_km": 37673.67,
+        "total_distance_km": 38753.67,
         "total_income": 1795761,
-        "total_duration_seconds": 123841
+        "total_duration_seconds": 127331
       },
       "ats": {
         "jobs_count": 0,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-28T18:11:24.853431+00:00"
+    "generated_at": "2025-12-28T18:21:50.203936+00:00"
   }
 }
