@@ -116,9 +116,9 @@
       "id": 8180,
       "name": "Nico",
       "ets2": {
-        "jobs_count": 114,
+        "jobs_count": 115,
         "total_distance_km": 94414.81,
-        "total_income": 29034813,
+        "total_income": 29044681,
         "total_duration_seconds": 265423
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-28T10:52:41.931587+00:00"
+    "generated_at": "2025-12-28T11:03:09.554899+00:00"
   }
 }
