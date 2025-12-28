@@ -100,9 +100,9 @@
       "id": 244659,
       "name": "Joran",
       "ets2": {
-        "jobs_count": 27,
+        "jobs_count": 28,
         "total_distance_km": 15880.59,
-        "total_income": 1082798,
+        "total_income": 1088236,
         "total_duration_seconds": 37101
       },
       "ats": {
@@ -116,9 +116,9 @@
       "id": 8180,
       "name": "Nico",
       "ets2": {
-        "jobs_count": 116,
+        "jobs_count": 117,
         "total_distance_km": 94859.81,
-        "total_income": 29108976,
+        "total_income": 29114414,
         "total_duration_seconds": 267915
       },
       "ats": {
@@ -149,9 +149,9 @@
       "name": ">Colinda<",
       "ets2": {
         "jobs_count": 113,
-        "total_distance_km": 67273.71,
-        "total_income": 2613834,
-        "total_duration_seconds": 166014
+        "total_distance_km": 67862.71,
+        "total_income": 2611126,
+        "total_duration_seconds": 167411
       },
       "ats": {
         "jobs_count": 4,
@@ -229,9 +229,9 @@
       "name": "Kaizen",
       "ets2": {
         "jobs_count": 111,
-        "total_distance_km": 38753.67,
-        "total_income": 1799974,
-        "total_duration_seconds": 127331
+        "total_distance_km": 38799.36,
+        "total_income": 1783761,
+        "total_duration_seconds": 127702
       },
       "ats": {
         "jobs_count": 0,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-28T19:46:07.268453+00:00"
+    "generated_at": "2025-12-28T19:56:32.029693+00:00"
   }
 }
