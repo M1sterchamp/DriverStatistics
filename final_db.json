@@ -139,9 +139,9 @@
       },
       "ats": {
         "jobs_count": 43,
-        "total_distance_km": 24519.32,
+        "total_distance_km": 24921.32,
         "total_income": 1438716,
-        "total_duration_seconds": 62143
+        "total_duration_seconds": 63133
       }
     },
     "8172": {
@@ -276,9 +276,9 @@
       "id": 56377,
       "name": "aekiai",
       "ets2": {
-        "jobs_count": 32,
+        "jobs_count": 33,
         "total_distance_km": 15427.91,
-        "total_income": 456676,
+        "total_income": 496171,
         "total_duration_seconds": 48845
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-28T22:38:10.749000+00:00"
+    "generated_at": "2025-12-28T22:48:36.298860+00:00"
   }
 }
