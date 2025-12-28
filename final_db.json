@@ -5,9 +5,9 @@
       "name": "why do i exist",
       "ets2": {
         "jobs_count": 112,
-        "total_distance_km": 67642.74,
+        "total_distance_km": 68392.74,
         "total_income": 4480298,
-        "total_duration_seconds": 219027
+        "total_duration_seconds": 221411
       },
       "ats": {
         "jobs_count": 22,
@@ -139,9 +139,9 @@
       },
       "ats": {
         "jobs_count": 36,
-        "total_distance_km": 21700.83,
-        "total_income": 1200576,
-        "total_duration_seconds": 54366
+        "total_distance_km": 22041.32,
+        "total_income": 1244348,
+        "total_duration_seconds": 55717
       }
     },
     "8172": {
@@ -196,9 +196,9 @@
       "id": 245124,
       "name": "Leoba",
       "ets2": {
-        "jobs_count": 42,
+        "jobs_count": 43,
         "total_distance_km": 23117.06,
-        "total_income": 769041,
+        "total_income": 784400,
         "total_duration_seconds": 81486
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-28T15:13:19.582456+00:00"
+    "generated_at": "2025-12-28T15:23:50.535746+00:00"
   }
 }
