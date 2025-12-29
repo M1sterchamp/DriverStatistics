@@ -117,9 +117,9 @@
       "name": "Nico",
       "ets2": {
         "jobs_count": 119,
-        "total_distance_km": 96464.81,
+        "total_distance_km": 97761.81,
         "total_income": 29148999,
-        "total_duration_seconds": 272964
+        "total_duration_seconds": 277228
       },
       "ats": {
         "jobs_count": 1,
@@ -138,10 +138,10 @@
         "total_duration_seconds": 118116
       },
       "ats": {
-        "jobs_count": 47,
-        "total_distance_km": 25948.32,
-        "total_income": 1520149,
-        "total_duration_seconds": 65818
+        "jobs_count": 48,
+        "total_distance_km": 26371.32,
+        "total_income": 1537323,
+        "total_duration_seconds": 66968
       }
     },
     "8172": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T15:58:50.807466+00:00"
+    "generated_at": "2025-12-29T16:09:15.935018+00:00"
   }
 }
