@@ -180,9 +180,9 @@
       "id": 242488,
       "name": "jmypackm93",
       "ets2": {
-        "jobs_count": 20,
+        "jobs_count": 21,
         "total_distance_km": 5562.0,
-        "total_income": 258792,
+        "total_income": 265264,
         "total_duration_seconds": 18599
       },
       "ats": {
@@ -197,9 +197,9 @@
       "name": "Leoba",
       "ets2": {
         "jobs_count": 45,
-        "total_distance_km": 24426.06,
+        "total_distance_km": 25158.06,
         "total_income": 812106,
-        "total_duration_seconds": 86610
+        "total_duration_seconds": 89403
       },
       "ats": {
         "jobs_count": 3,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T19:49:59.530138+00:00"
+    "generated_at": "2025-12-29T20:00:38.069004+00:00"
   }
 }
