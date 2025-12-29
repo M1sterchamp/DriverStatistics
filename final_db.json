@@ -180,9 +180,9 @@
       "id": 242488,
       "name": "jmypackm93",
       "ets2": {
-        "jobs_count": 15,
+        "jobs_count": 16,
         "total_distance_km": 3423.0,
-        "total_income": 170361,
+        "total_income": 177045,
         "total_duration_seconds": 12303
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T09:33:08.561247+00:00"
+    "generated_at": "2025-12-29T09:43:34.825484+00:00"
   }
 }
