@@ -117,9 +117,9 @@
       "name": "Nico",
       "ets2": {
         "jobs_count": 121,
-        "total_distance_km": 97761.81,
+        "total_distance_km": 97829.81,
         "total_income": 29251688,
-        "total_duration_seconds": 277228
+        "total_duration_seconds": 278395
       },
       "ats": {
         "jobs_count": 1,
@@ -148,9 +148,9 @@
       "id": 8172,
       "name": ">Colinda<",
       "ets2": {
-        "jobs_count": 119,
+        "jobs_count": 120,
         "total_distance_km": 69307.71,
-        "total_income": 2685457,
+        "total_income": 2692877,
         "total_duration_seconds": 171424
       },
       "ats": {
@@ -196,9 +196,9 @@
       "id": 245124,
       "name": "Leoba",
       "ets2": {
-        "jobs_count": 43,
+        "jobs_count": 44,
         "total_distance_km": 23756.06,
-        "total_income": 784400,
+        "total_income": 800818,
         "total_duration_seconds": 84150
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T18:14:50.999222+00:00"
+    "generated_at": "2025-12-29T18:25:25.145532+00:00"
   }
 }
