@@ -149,9 +149,9 @@
       "name": ">Colinda<",
       "ets2": {
         "jobs_count": 119,
-        "total_distance_km": 69248.71,
+        "total_distance_km": 69307.71,
         "total_income": 2685457,
-        "total_duration_seconds": 171121
+        "total_duration_seconds": 171424
       },
       "ats": {
         "jobs_count": 4,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T18:04:27.776159+00:00"
+    "generated_at": "2025-12-29T18:14:50.999222+00:00"
   }
 }
