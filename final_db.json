@@ -148,9 +148,9 @@
       "id": 8172,
       "name": ">Colinda<",
       "ets2": {
-        "jobs_count": 118,
+        "jobs_count": 119,
         "total_distance_km": 69248.71,
-        "total_income": 2682545,
+        "total_income": 2685457,
         "total_duration_seconds": 171121
       },
       "ats": {
@@ -181,9 +181,9 @@
       "name": "jmypackm93",
       "ets2": {
         "jobs_count": 20,
-        "total_distance_km": 5240.0,
+        "total_distance_km": 5562.0,
         "total_income": 258792,
-        "total_duration_seconds": 17490
+        "total_duration_seconds": 18599
       },
       "ats": {
         "jobs_count": 5,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T17:53:45.074513+00:00"
+    "generated_at": "2025-12-29T18:04:27.776159+00:00"
   }
 }
