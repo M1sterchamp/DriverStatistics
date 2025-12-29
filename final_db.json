@@ -20,9 +20,9 @@
       "id": 243076,
       "name": "tahanks1",
       "ets2": {
-        "jobs_count": 15,
+        "jobs_count": 16,
         "total_distance_km": 9534.7,
-        "total_income": 47219514,
+        "total_income": 47224522,
         "total_duration_seconds": 27161
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T17:11:57.912862+00:00"
+    "generated_at": "2025-12-29T17:22:22.106477+00:00"
   }
 }
