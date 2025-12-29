@@ -181,9 +181,9 @@
       "name": "jmypackm93",
       "ets2": {
         "jobs_count": 14,
-        "total_distance_km": 3192.0,
+        "total_distance_km": 3276.0,
         "total_income": 168386,
-        "total_duration_seconds": 11399
+        "total_duration_seconds": 11760
       },
       "ats": {
         "jobs_count": 5,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T07:59:31.954262+00:00"
+    "generated_at": "2025-12-29T08:09:54.167073+00:00"
   }
 }
