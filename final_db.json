@@ -148,10 +148,10 @@
       "id": 8172,
       "name": ">Colinda<",
       "ets2": {
-        "jobs_count": 130,
-        "total_distance_km": 71063.71,
-        "total_income": 2768488,
-        "total_duration_seconds": 176422
+        "jobs_count": 131,
+        "total_distance_km": 71152.71,
+        "total_income": 2775508,
+        "total_duration_seconds": 176703
       },
       "ats": {
         "jobs_count": 4,
@@ -180,10 +180,10 @@
       "id": 242488,
       "name": "jmypackm93",
       "ets2": {
-        "jobs_count": 21,
-        "total_distance_km": 5562.0,
-        "total_income": 265264,
-        "total_duration_seconds": 18599
+        "jobs_count": 22,
+        "total_distance_km": 5660.0,
+        "total_income": 273964,
+        "total_duration_seconds": 19151
       },
       "ats": {
         "jobs_count": 5,
@@ -213,9 +213,9 @@
       "name": "RZX Yoshi",
       "ets2": {
         "jobs_count": 21,
-        "total_distance_km": 8850.47,
-        "total_income": 564782,
-        "total_duration_seconds": 28079
+        "total_distance_km": 10103.47,
+        "total_income": 560870,
+        "total_duration_seconds": 32072
       },
       "ats": {
         "jobs_count": 5,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T20:11:13.684363+00:00"
+    "generated_at": "2025-12-29T20:21:45.709675+00:00"
   }
 }
