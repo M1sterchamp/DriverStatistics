@@ -276,9 +276,9 @@
       "id": 56377,
       "name": "aekiai",
       "ets2": {
-        "jobs_count": 33,
+        "jobs_count": 34,
         "total_distance_km": 16498.91,
-        "total_income": 496171,
+        "total_income": 553997,
         "total_duration_seconds": 52460
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T12:19:40.958475+00:00"
+    "generated_at": "2025-12-29T12:30:03.307652+00:00"
   }
 }
