@@ -21,9 +21,9 @@
       "name": "tahanks1",
       "ets2": {
         "jobs_count": 16,
-        "total_distance_km": 9534.7,
-        "total_income": 47224522,
-        "total_duration_seconds": 27161
+        "total_distance_km": 9604.7,
+        "total_income": 47222832,
+        "total_duration_seconds": 27959
       },
       "ats": {
         "jobs_count": 0,
@@ -149,9 +149,9 @@
       "name": ">Colinda<",
       "ets2": {
         "jobs_count": 118,
-        "total_distance_km": 68993.71,
+        "total_distance_km": 69248.71,
         "total_income": 2682545,
-        "total_duration_seconds": 170477
+        "total_duration_seconds": 171121
       },
       "ats": {
         "jobs_count": 4,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-29T17:43:19.756878+00:00"
+    "generated_at": "2025-12-29T17:53:45.074513+00:00"
   }
 }
