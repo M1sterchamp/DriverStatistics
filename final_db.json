@@ -138,9 +138,9 @@
         "total_duration_seconds": 118116
       },
       "ats": {
-        "jobs_count": 49,
+        "jobs_count": 50,
         "total_distance_km": 26879.32,
-        "total_income": 1554497,
+        "total_income": 1560439,
         "total_duration_seconds": 68433
       }
     },
@@ -181,9 +181,9 @@
       "name": "jmypackm93",
       "ets2": {
         "jobs_count": 30,
-        "total_distance_km": 7788.0,
+        "total_distance_km": 7885.0,
         "total_income": 361547,
-        "total_duration_seconds": 26582
+        "total_duration_seconds": 27144
       },
       "ats": {
         "jobs_count": 5,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-30T15:38:53.786555+00:00"
+    "generated_at": "2025-12-30T15:49:21.371798+00:00"
   }
 }
