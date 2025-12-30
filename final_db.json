@@ -85,9 +85,9 @@
       "name": "toz",
       "ets2": {
         "jobs_count": 59,
-        "total_distance_km": 13367.01,
+        "total_distance_km": 13767.01,
         "total_income": 725719,
-        "total_duration_seconds": 50385
+        "total_duration_seconds": 51881
       },
       "ats": {
         "jobs_count": 0,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-30T14:04:35.813390+00:00"
+    "generated_at": "2025-12-30T14:14:59.553742+00:00"
   }
 }
