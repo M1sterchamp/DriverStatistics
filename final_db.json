@@ -85,9 +85,9 @@
       "name": "toz",
       "ets2": {
         "jobs_count": 58,
-        "total_distance_km": 12967.01,
+        "total_distance_km": 13367.01,
         "total_income": 715017,
-        "total_duration_seconds": 48818
+        "total_duration_seconds": 50385
       },
       "ats": {
         "jobs_count": 0,
@@ -164,9 +164,9 @@
       "id": 119522,
       "name": "Ashleyyy",
       "ets2": {
-        "jobs_count": 103,
+        "jobs_count": 104,
         "total_distance_km": 36589.74,
-        "total_income": 2675470,
+        "total_income": 2714941,
         "total_duration_seconds": 124793
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-30T10:47:00.763597+00:00"
+    "generated_at": "2025-12-30T10:57:25.641894+00:00"
   }
 }
