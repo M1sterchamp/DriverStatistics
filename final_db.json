@@ -138,10 +138,10 @@
         "total_duration_seconds": 118116
       },
       "ats": {
-        "jobs_count": 50,
-        "total_distance_km": 26879.32,
-        "total_income": 1560439,
-        "total_duration_seconds": 68433
+        "jobs_count": 51,
+        "total_distance_km": 27113.32,
+        "total_income": 1561064,
+        "total_duration_seconds": 69241
       }
     },
     "8172": {
@@ -165,9 +165,9 @@
       "name": "Ashleyyy",
       "ets2": {
         "jobs_count": 105,
-        "total_distance_km": 37025.74,
+        "total_distance_km": 37600.74,
         "total_income": 2762319,
-        "total_duration_seconds": 126434
+        "total_duration_seconds": 128678
       },
       "ats": {
         "jobs_count": 0,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-30T15:49:21.371798+00:00"
+    "generated_at": "2025-12-30T15:59:43.691632+00:00"
   }
 }
