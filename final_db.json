@@ -138,10 +138,10 @@
         "total_duration_seconds": 118116
       },
       "ats": {
-        "jobs_count": 51,
-        "total_distance_km": 27113.32,
-        "total_income": 1561064,
-        "total_duration_seconds": 69241
+        "jobs_count": 52,
+        "total_distance_km": 27116.32,
+        "total_income": 1561816,
+        "total_duration_seconds": 69356
       }
     },
     "8172": {
@@ -356,9 +356,9 @@
       "id": 182620,
       "name": "ThunderBurrow",
       "ets2": {
-        "jobs_count": 28,
+        "jobs_count": 29,
         "total_distance_km": 16291.11,
-        "total_income": 1350779,
+        "total_income": 1389889,
         "total_duration_seconds": 55363
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-30T15:59:43.691632+00:00"
+    "generated_at": "2025-12-30T16:10:09.174987+00:00"
   }
 }
