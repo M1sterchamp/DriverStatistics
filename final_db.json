@@ -84,9 +84,9 @@
       "id": 122929,
       "name": "toz",
       "ets2": {
-        "jobs_count": 63,
+        "jobs_count": 64,
         "total_distance_km": 15416.01,
-        "total_income": 773923,
+        "total_income": 984544,
         "total_duration_seconds": 57474
       },
       "ats": {
@@ -180,10 +180,10 @@
       "id": 242488,
       "name": "jmypackm93",
       "ets2": {
-        "jobs_count": 36,
-        "total_distance_km": 8603.0,
-        "total_income": 429371,
-        "total_duration_seconds": 29582
+        "jobs_count": 37,
+        "total_distance_km": 8900.0,
+        "total_income": 438107,
+        "total_duration_seconds": 30492
       },
       "ats": {
         "jobs_count": 5,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-31T14:47:30.060307+00:00"
+    "generated_at": "2025-12-31T14:58:15.638505+00:00"
   }
 }
