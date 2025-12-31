@@ -260,9 +260,9 @@
       "id": 245568,
       "name": "FeFeQTR",
       "ets2": {
-        "jobs_count": 30,
+        "jobs_count": 31,
         "total_distance_km": 8234.0,
-        "total_income": 365785,
+        "total_income": 417290,
         "total_duration_seconds": 29413
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-31T14:05:34.470825+00:00"
+    "generated_at": "2025-12-31T14:16:03.187303+00:00"
   }
 }
