@@ -180,10 +180,10 @@
       "id": 242488,
       "name": "jmypackm93",
       "ets2": {
-        "jobs_count": 37,
-        "total_distance_km": 8900.0,
-        "total_income": 438107,
-        "total_duration_seconds": 30492
+        "jobs_count": 38,
+        "total_distance_km": 9059.0,
+        "total_income": 444065,
+        "total_duration_seconds": 31207
       },
       "ats": {
         "jobs_count": 5,
@@ -261,9 +261,9 @@
       "name": "FeFeQTR",
       "ets2": {
         "jobs_count": 31,
-        "total_distance_km": 8234.0,
+        "total_distance_km": 9498.0,
         "total_income": 417290,
-        "total_duration_seconds": 29413
+        "total_duration_seconds": 32718
       },
       "ats": {
         "jobs_count": 0,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2025-12-31T14:58:15.638505+00:00"
+    "generated_at": "2025-12-31T15:08:45.245739+00:00"
   }
 }
