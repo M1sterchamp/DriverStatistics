@@ -165,9 +165,9 @@
       "name": "Ashleyyy",
       "ets2": {
         "jobs_count": 106,
-        "total_distance_km": 37600.74,
-        "total_income": 2789783,
-        "total_duration_seconds": 128678
+        "total_distance_km": 38051.74,
+        "total_income": 2786453,
+        "total_duration_seconds": 130603
       },
       "ats": {
         "jobs_count": 0,
@@ -469,9 +469,9 @@
       "name": "Mr_Cobra",
       "ets2": {
         "jobs_count": 57,
-        "total_distance_km": 28737.48,
+        "total_distance_km": 28896.46,
         "total_income": 1365538,
-        "total_duration_seconds": 89718
+        "total_duration_seconds": 90417
       },
       "ats": {
         "jobs_count": 0,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2026-01-01T18:27:27.212532+00:00"
+    "generated_at": "2026-01-01T18:37:56.648575+00:00"
   }
 }
