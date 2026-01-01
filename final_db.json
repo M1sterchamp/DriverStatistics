@@ -138,10 +138,10 @@
         "total_duration_seconds": 125444
       },
       "ats": {
-        "jobs_count": 64,
-        "total_distance_km": 38203.32,
-        "total_income": 2490358,
-        "total_duration_seconds": 94972
+        "jobs_count": 65,
+        "total_distance_km": 38227.98,
+        "total_income": 2483318,
+        "total_duration_seconds": 95454
       }
     },
     "8172": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2026-01-01T22:19:34.807770+00:00"
+    "generated_at": "2026-01-01T22:31:47.891974+00:00"
   }
 }
