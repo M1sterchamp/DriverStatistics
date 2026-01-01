@@ -229,9 +229,9 @@
       "name": "Kaizen",
       "ets2": {
         "jobs_count": 115,
-        "total_distance_km": 40030.36,
-        "total_income": 1869495,
-        "total_duration_seconds": 132146
+        "total_distance_km": 40627.36,
+        "total_income": 1858693,
+        "total_duration_seconds": 134331
       },
       "ats": {
         "jobs_count": 0,
@@ -468,9 +468,9 @@
       "id": 156687,
       "name": "Mr_Cobra",
       "ets2": {
-        "jobs_count": 56,
+        "jobs_count": 57,
         "total_distance_km": 28737.48,
-        "total_income": 1356774,
+        "total_income": 1365538,
         "total_duration_seconds": 89718
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2026-01-01T17:55:57.361276+00:00"
+    "generated_at": "2026-01-01T18:06:27.158309+00:00"
   }
 }
