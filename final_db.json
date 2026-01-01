@@ -138,10 +138,10 @@
         "total_duration_seconds": 125444
       },
       "ats": {
-        "jobs_count": 61,
-        "total_distance_km": 34887.32,
-        "total_income": 2408084,
-        "total_duration_seconds": 88655
+        "jobs_count": 62,
+        "total_distance_km": 37417.32,
+        "total_income": 2414066,
+        "total_duration_seconds": 93006
       }
     },
     "8172": {
@@ -180,9 +180,9 @@
       "id": 242488,
       "name": "jmypackm93",
       "ets2": {
-        "jobs_count": 43,
+        "jobs_count": 44,
         "total_distance_km": 10651.0,
-        "total_income": 496042,
+        "total_income": 506582,
         "total_duration_seconds": 37603
       },
       "ats": {
@@ -266,10 +266,10 @@
         "total_duration_seconds": 34107
       },
       "ats": {
-        "jobs_count": 1,
-        "total_distance_km": 0.0,
-        "total_income": 121592,
-        "total_duration_seconds": 0
+        "jobs_count": 2,
+        "total_distance_km": 2529.0,
+        "total_income": 134058,
+        "total_duration_seconds": 4363
       }
     },
     "56377": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2026-01-01T20:02:27.613875+00:00"
+    "generated_at": "2026-01-01T20:13:05.620127+00:00"
   }
 }
