@@ -356,9 +356,9 @@
       "id": 182620,
       "name": "ThunderBurrow",
       "ets2": {
-        "jobs_count": 30,
+        "jobs_count": 31,
         "total_distance_km": 17070.83,
-        "total_income": 1377889,
+        "total_income": 1422476,
         "total_duration_seconds": 57233
       },
       "ats": {
@@ -468,9 +468,9 @@
       "id": 156687,
       "name": "Mr_Cobra",
       "ets2": {
-        "jobs_count": 59,
+        "jobs_count": 60,
         "total_distance_km": 29046.46,
-        "total_income": 1380506,
+        "total_income": 1385628,
         "total_duration_seconds": 91203
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2026-01-02T08:47:01.142291+00:00"
+    "generated_at": "2026-01-02T08:57:24.774212+00:00"
   }
 }
