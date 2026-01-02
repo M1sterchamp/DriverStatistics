@@ -181,9 +181,9 @@
       "name": "jmypackm93",
       "ets2": {
         "jobs_count": 46,
-        "total_distance_km": 11191.0,
+        "total_distance_km": 11323.0,
         "total_income": 522776,
-        "total_duration_seconds": 39436
+        "total_duration_seconds": 40097
       },
       "ats": {
         "jobs_count": 5,
@@ -229,9 +229,9 @@
       "name": "Kaizen",
       "ets2": {
         "jobs_count": 116,
-        "total_distance_km": 40627.36,
-        "total_income": 1876025,
-        "total_duration_seconds": 134331
+        "total_distance_km": 41051.36,
+        "total_income": 1874454,
+        "total_duration_seconds": 135799
       },
       "ats": {
         "jobs_count": 0,
@@ -260,9 +260,9 @@
       "id": 245568,
       "name": "FeFeQTR",
       "ets2": {
-        "jobs_count": 32,
+        "jobs_count": 33,
         "total_distance_km": 9946.72,
-        "total_income": 436214,
+        "total_income": 462522,
         "total_duration_seconds": 34107
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2026-01-02T12:05:52.389920+00:00"
+    "generated_at": "2026-01-02T12:16:17.875671+00:00"
   }
 }
