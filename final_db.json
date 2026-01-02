@@ -261,9 +261,9 @@
       "name": "FeFeQTR",
       "ets2": {
         "jobs_count": 33,
-        "total_distance_km": 9946.72,
+        "total_distance_km": 10603.72,
         "total_income": 462522,
-        "total_duration_seconds": 34107
+        "total_duration_seconds": 35863
       },
       "ats": {
         "jobs_count": 2,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2026-01-02T12:37:08.058660+00:00"
+    "generated_at": "2026-01-02T12:47:32.378382+00:00"
   }
 }
