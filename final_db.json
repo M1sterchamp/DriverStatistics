@@ -146,7 +146,7 @@
     },
     "8172": {
       "id": 8172,
-      "name": ">Colinda<",
+      "name": ">Trucker-Colinda<",
       "ets2": {
         "jobs_count": 132,
         "total_distance_km": 71314.71,
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2026-01-02T02:53:11.669854+00:00"
+    "generated_at": "2026-01-02T03:03:39.208759+00:00"
   }
 }
