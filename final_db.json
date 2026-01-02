@@ -132,9 +132,9 @@
       "id": 243408,
       "name": "Daiwa Scarlet",
       "ets2": {
-        "jobs_count": 79,
+        "jobs_count": 80,
         "total_distance_km": 40904.26,
-        "total_income": 2464026,
+        "total_income": 2554114,
         "total_duration_seconds": 125444
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2026-01-02T15:35:52.273114+00:00"
+    "generated_at": "2026-01-02T15:46:21.310131+00:00"
   }
 }
