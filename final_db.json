@@ -468,9 +468,9 @@
       "id": 156687,
       "name": "Mr_Cobra",
       "ets2": {
-        "jobs_count": 57,
+        "jobs_count": 58,
         "total_distance_km": 28896.46,
-        "total_income": 1365538,
+        "total_income": 1370794,
         "total_duration_seconds": 90417
       },
       "ats": {
@@ -658,6 +658,6 @@
     }
   },
   "meta": {
-    "generated_at": "2026-01-02T05:50:13.427745+00:00"
+    "generated_at": "2026-01-02T06:00:41.931642+00:00"
   }
 }
